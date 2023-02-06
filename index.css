@@ -19,7 +19,5 @@ script{
     height: 270px;
     background-color: crimson;
 }
-.mainvideo{
-width:100px;
-height:120px;
-}
+.video{
+float:left}
