@@ -1,22 +1,18 @@
 .header{
-    height:90px;
-    background-color:aqua
-}
-h1{
-    font-size:small
+  background-image: url(https://tech-lagoon.com/img/imagechef/thumb/jpg/400x400/unicolor-canvas.jpg);
 }
 script{
-    width:100px;
+    width:100px
     height:100px;
 }
 
 .main{
-    height:600px;
     background-color: #83cd20;
+ background-image: url(https://p1-e6eeae93.imageflux.jp/c!/w=800,h=800,a=2/yutaromasamasa/aab8beb3d6b6ef461209.jpeg);
 }
 
 .footer{
-    height: 270px;
+    height: 170px;
     background-color: crimson;
 }
 .video-contents{
